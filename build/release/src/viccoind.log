@@ -1,0 +1,6 @@
+2017-Dec-14 12:50:41.013552 INFO [daemon] viccoin v1.1.1.1(0.1-g8edd99830)
+2017-Dec-14 12:50:41.013855 INFO [daemon] Module folder: /var/www/html/viccoin/build/release/src/viccoind
+2017-Dec-14 12:50:41.014720 INFO [daemon] Initializing p2p server...
+2017-Dec-14 12:50:41.035900 INFO [node_server] Binding on 0.0.0.0:3007
+2017-Dec-14 12:50:41.036138 INFO [miner] Mining has been stopped, 0 finished
+2017-Dec-14 12:50:41.036416 ERROR [daemon] Exception: TcpListener::TcpListener, bind failed, result=98, Address already in use

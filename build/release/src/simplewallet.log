@@ -1,0 +1,58 @@
+2017-Dec-13 16:03:51.671590 INFO [simplewallet] viccoin wallet v1.1.1.1(0.1-g8edd99830)
+2017-Dec-13 16:05:30.318099 INFO [simplewallet] Loading wallet...
+2017-Dec-13 16:05:30.428238 INFO [simplewallet] Opened wallet: BLgkye1e3MV9aAxMYacW41QTE6Hpy6sF8WnjsJebtna6Ldnn2jiRXoXgxNdPREMMiUKL96532kfvrHckbpi8hUDfT7Ed3jr
+2017-Dec-13 16:05:30.428708 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-13 16:05:30.451133 INFO [simplewallet] Height 50, transaction fab9ddb9acdec1edca4d5ca42db92dfe41d14160459965da1707a1a47c882942, received 703553.23659187
+2017-Dec-13 16:05:41.036712 INFO [simplewallet] available balance: 0.00000000, locked amount: 35180949.75000599
+2017-Dec-13 16:05:50.402179 INFO [simplewallet] Height 51, transaction b90023bbc7448fb9e8e9758481a464479e8e8d3bfbae3e0edce5623286ce0ae0, received 703550.55274926
+2017-Dec-13 16:06:45.411119 INFO [simplewallet] Height 52, transaction 78fe109723330ec05e0d88ad6797a44ad9925522847cdeb6abf17f9716def55f, received 703547.86891689
+2017-Dec-13 16:09:55.447400 INFO [simplewallet] Height 53, transaction a3a55ce57b33ecec46786eecfdbbb30c227b4f5969957f6d4aa237d0a8086b90, received 703545.18509476
+2017-Dec-13 16:10:15.504156 INFO [simplewallet] Mining stopped in daemon
+2017-Dec-13 16:10:24.418936 INFO [simplewallet] available balance: 0.00000000, locked amount: 37291593.35676690
+2017-Dec-13 16:15:07.927992 INFO [simplewallet] Wallet closed
+2017-Dec-13 16:15:12.187186 INFO [simplewallet] viccoin wallet v1.1.1.1(0.1-g8edd99830)
+2017-Dec-13 16:15:21.424367 INFO [simplewallet] Generated new wallet: BKAdp8joj9VLfAvNr3WHVK7TrjhNokepK67BBnC2pnmvjShNotqPeAwWtBBkNWeDKF1G5MqJhYEdiVq5ACeKefkuK9q2gfn
+2017-Dec-13 16:15:21.424367 INFO [simplewallet] view key: 91f370c413ac807b81ebe321449825ef974427a2825b6193d0f4d3ce10127005
+2017-Dec-13 16:15:21.424544 INFO [simplewallet] **********************************************************************
+Your wallet has been generated.
+Use "help" command to see the list of available commands.
+Always use "exit" command when closing simplewallet to save
+current session's state. Otherwise, you will possibly need to synchronize 
+your wallet again. Your wallet key is NOT under risk anyway.
+**********************************************************************
+2017-Dec-13 16:15:47.713109 INFO [simplewallet] Wallet closed
+2017-Dec-13 16:15:52.810198 INFO [simplewallet] viccoin wallet v1.1.1.1(0.1-g8edd99830)
+2017-Dec-13 16:16:59.653801 INFO [simplewallet] Loading wallet...
+2017-Dec-13 16:16:59.675778 INFO [simplewallet] Opened wallet: BLgkye1e3MV9aAxMYacW41QTE6Hpy6sF8WnjsJebtna6Ldnn2jiRXoXgxNdPREMMiUKL96532kfvrHckbpi8hUDfT7Ed3jr
+2017-Dec-13 16:16:59.676109 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-13 16:18:29.387223 ERROR [simplewallet] Error: Wrong amount
+2017-Dec-13 16:19:10.034311 ERROR [simplewallet] Error: Wrong amount
+2017-Dec-14 11:06:33.591899 INFO [simplewallet] viccoin wallet v1.1.1.1(0.1-g8edd99830)
+2017-Dec-14 11:07:01.746156 INFO [simplewallet] Loading wallet...
+2017-Dec-14 11:07:01.799392 INFO [simplewallet] Opened wallet: BLgkye1e3MV9aAxMYacW41QTE6Hpy6sF8WnjsJebtna6Ldnn2jiRXoXgxNdPREMMiUKL96532kfvrHckbpi8hUDfT7Ed3jr
+2017-Dec-14 11:07:01.799497 INFO [simplewallet] **********************************************************************
+Use "help" command to see the list of available commands.
+**********************************************************************
+2017-Dec-14 11:07:05.600658 INFO [simplewallet] available balance: 0.00000000, locked amount: 37291593.35676690
+2017-Dec-14 13:18:49.408888 INFO [simplewallet] Commands: 
+  address              Show current wallet public address
+  balance              Show current wallet balance
+  bc_height            Show blockchain height
+  exit                 Close wallet
+  help                 Show this help
+  incoming_transfers   Show incoming transfers
+  list_transfers       Show all known transfers
+  payments             payments <payment_id_1> [<payment_id_2> ... <payment_id_N>] - Show payments <payment_id_1>, ... <payment_id_N>
+  reset                Discard cache data and start synchronizing from the start
+  save                 Save wallet synchronized data
+  set_log              set_log <level> - Change current log level, <level> is a number 0-4
+  start_mining         start_mining [<number_of_threads>] - Start mining in daemon
+  stop_mining          Stop mining in daemon
+  transfer             transfer <mixin_count> <addr_1> <amount_1> [<addr_2> <amount_2> ... <addr_N> <amount_N>] [-p payment_id] [-f fee] - Transfer <amount_1>,... <amount_N> to <address_1>,... <address_N>, respectively. <mixin_count> is the number of transactions yours is indistinguishable from (from 0 to maximum available)
+  
+
+2017-Dec-14 15:23:21.425048 INFO [simplewallet] Wallet closed
